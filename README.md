@@ -1,2 +1,3 @@
 # huggingface-Langchain
-## a repository to store a beginner's tutorial om huggingface and langchain by Krish naik
+### This repo contains a miscellaneous collection of notebooks to learn about huggingface-langchain library and maybe other related topics
+
